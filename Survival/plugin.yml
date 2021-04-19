@@ -1,0 +1,18 @@
+name: Survival
+author: Nemesis07
+version: 1.0.0
+main: fr.nemesis07.survival.Main
+api-version: 1.16
+commands:
+  backpack:
+    aliases: bp
+  tpa:
+  tpaccept:
+    aliases: tpyes
+  tpdeny:
+    aliases: tpno
+  pet:
+  bcrl:
+  invsee:
+  enderchest:
+    aliases: ec
